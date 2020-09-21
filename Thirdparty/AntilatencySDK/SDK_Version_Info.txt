@@ -1,0 +1,66 @@
+{
+  "Sdk": {
+    "Name": "2.0.0",
+    "Category": "tags",
+    "SubCategory": "2.0.0",
+    "Revision": "231"
+  },
+  "Dependencies": [
+    {
+      "Name": "AntilatencyApiGenerator",
+      "Category": "trunk",
+      "SubCategory": null,
+      "Revision": "415"
+    },
+    {
+      "Name": "AntilatencyLibraryLoader",
+      "Category": "trunk",
+      "SubCategory": null,
+      "Revision": "17"
+    },
+    {
+      "Name": "AntilatencyLicense",
+      "Category": null,
+      "SubCategory": null,
+      "Revision": "12"
+    }
+  ],
+  "BinaryDependencies": [
+    {
+      "Name": "AltTracking",
+      "Category": "tags",
+      "SubCategory": "4.0.0",
+      "Revision": "12925"
+    },
+    {
+      "Name": "BracerCotask",
+      "Category": "tags",
+      "SubCategory": "1.0.1",
+      "Revision": "12925"
+    },
+    {
+      "Name": "AntilatencyDeviceNetwork",
+      "Category": "tags",
+      "SubCategory": "7.5.0",
+      "Revision": "12925"
+    },
+    {
+      "Name": "AntilatencyRadioMetrics",
+      "Category": "tags",
+      "SubCategory": "1.0.0",
+      "Revision": "12925"
+    },
+    {
+      "Name": "AntilatencyStorageClient",
+      "Category": "tags",
+      "SubCategory": "3.0.1",
+      "Revision": "12925"
+    },
+    {
+      "Name": "UsbServiceInterfaces",
+      "Category": "trunk",
+      "SubCategory": null,
+      "Revision": "10916"
+    }
+  ]
+}
